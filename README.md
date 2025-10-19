@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **aman100x/aman100x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there 👋
+
+I'm Aman, nd I love building innovative and scalable software solutions.
+
+📫 You can reach me via email:
+
+Personal: aman.kumar.iitkgpian@gmail.com
+
+Work: aman.kumar.work100x@gmail.com
